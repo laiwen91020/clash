@@ -17,7 +17,7 @@ DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
 # 其他网站
-DOMAIN-SUFFIX,tronscan.org
+DOMAIN-KEYWORD,tronscan
 DOMAIN-SUFFIX,magiskcn.com
 DOMAIN-SUFFIX,89yyds.top
 DOMAIN-SUFFIX,89nb.asia
