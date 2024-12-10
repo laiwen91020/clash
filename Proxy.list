@@ -18,8 +18,8 @@ DOMAIN-SUFFIX,hk-hkg.doh.sb
 
 # 其他网站
 DOMAIN-KEYWORD,paradoxplaza
-DOMAIN-KEYWORD,moddingfile
 DOMAIN-KEYWORD,modscities2
+DOMAIN-SUFFIX,moddingfile.com
 DOMAIN-SUFFIX,cslbbs.net
 DOMAIN-KEYWORD,metacubex
 DOMAIN-KEYWORD,tronscan
