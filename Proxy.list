@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
 # 其他网站
+DOMAIN-SUFFIX,ymtest.net
 DOMAIN-KEYWORD,timibbs
 DOMAIN-KEYWORD,vcam
 DOMAIN-KEYWORD,51cg1
